@@ -9,7 +9,7 @@ index = 0
   end
   nil
 end
-end
+
 
 def consolidate_cart(cart)
   # Consult README for inputs and outputs
